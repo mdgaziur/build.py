@@ -26,7 +26,7 @@ from sys import argv
 cmake_BUILD_COMMAND = 'cmake ../'
 cmake_BUILD_COMMAND_DEBUG = 'cmake ../ -DDEBUG=true'
 MAKE_BUILD_COMMAND  = 'make'
-RUN_COMMAND         = './codemountain_sandbox'
+RUN_COMMAND         = 'YOUR_EXECUTABLE_HERE'
 
 '''
     Ok, I(mdgaziur001) stole that from blender :^)
