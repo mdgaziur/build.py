@@ -1,3 +1,4 @@
+#! /bin/env python
 """
  build.py is a Python script that simplifies CMake build process.
  Copyright (C) 2021 MD Gaziur Rahman Noor
@@ -16,7 +17,6 @@
  along with this program.  If not, see <https://www.gnu.org/licenses/>.
 """
 
-#! /bin/env python
 import subprocess
 import shlex
 import os
